@@ -1,23 +1,22 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this, I was mostly just showing my basic skill in python where I typed "Hello World" and under it put "Have a Fantastic Day!" I mainly did this as a practice to get used to do documentation skills within here. My Goal as a developing software engineer is to be more confident in my own skills, and this is a starting assingment that I can use to get me used to python again. I considered making a class of "print()" but decided against it and just typed print() and left it as simple as it was. But I did add print() to add whitespace between the two sentences in the terminal. 
 
-{Provide a description of your software}
-This program prints words onto the terminal that says "Hello World!" and on the next line says "Have a fantastic day!" . 
 
-{Describe your purpose for creating this software.}
-I wanted to mess around to see how I can add spacing in between the printed phrases so that it wouldn't look so clumpted together. 
+The set of instructons that this tells the computer is to prints words onto the terminal that says "Hello World!" and on the next line says "Have a fantastic day!" 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](https://youtu.be/TOdgZ8VcymA)
+The intent of this software was to create something that could give me some practice in programming to become more confident in my own skills. I created this becuase its a quick easy assingment that goes right back to the basics and shares "Hello" and "have a fantastic day" to the world to who see's this. 
+
+
+[Cayleigh's "Hello World" Demo Video in python](https://youtu.be/TOdgZ8VcymA)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-I used visual studio code on my Windows 10 laptop. 
 
-{Describe the programming language that you used}
+I used Visual Studio Code editor to make this code. I got a  python extention within Visual Studio Code and have gitbash on my laptop on standby if I needed the GitBash terminal at the ready. 
+
+
 I used python which is an object oriented language that allows us to do a lot of different things. It dosen't have a specific purpose, but otherwise can be used for a lot of different things and tends to be easy to understand for the most part. 
 
 # Useful Websites
