@@ -1,6 +1,5 @@
-
-
-print("Hello World!")
 print()
-print("Have a fantastic day!")
+print("Hello World!")
+
+print("Have a Fantastic Day!")
 print()
