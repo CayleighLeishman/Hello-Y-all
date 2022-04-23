@@ -21,6 +21,6 @@ I used python which is an object oriented language that allows us to do a lot of
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+Some Sites I found helpful:
+* [About README's](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 * [Web Site Name](http://url.link.goes.here)
